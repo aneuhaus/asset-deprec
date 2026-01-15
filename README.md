@@ -1,5 +1,7 @@
 # Asset Depreciation Calculator
 
+![Asset Depreciation Calculator](social-preview.png)
+
 A shell script to calculate yearly and aggregated monthly depreciation for assets defined in a YAML file.
 
 ## Features

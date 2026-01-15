@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Local environment
+.env
+
+# YAML test files (optional, but good practice if users create their own)
+# test_assets.yaml
