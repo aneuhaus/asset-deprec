@@ -1,0 +1,21 @@
+assets:
+  - name: "MacBook Pro"
+    value: 2500
+    lifespan: 5
+    mode: "Straight-Line"
+    salvage_value: 500
+  - name: "Office Server"
+    value: 8000
+    lifespan: 4
+    mode: "Declining Balance"
+    salvage_value: 800
+  - name: "Office Furniture"
+    value: 1200
+    lifespan: 10
+    # mode defaults to Straight-Line
+    salvage_value: 100
+  - name: "Delivery Van"
+    value: 30000
+    lifespan: 6
+    mode: "Declining Balance"
+    salvage_value: 3000
